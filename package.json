@@ -1,0 +1,7 @@
+{
+  "name": "bx-webstorm",
+  "packageManager": "yarn@3.2.3",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
